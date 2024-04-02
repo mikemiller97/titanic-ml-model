@@ -19,7 +19,7 @@
 |pclass|Ticket class|1 = 1st, 2 = 2nd, 3 = 3rd|
 |sex|Sex|
 |Age|Age in years|
-|sibsp|# of siblings |# of spouses aboard the Titanic|
+|sibsp|# of siblings |# of siblings aboard the Titanic|
 |parch|# of parents |# of children aboard the Titanic|
 |ticket|Ticket number|
 |fare|Passenger fare|
