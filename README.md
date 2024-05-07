@@ -1,3 +1,13 @@
+## Introduction
+
+Welcome to the Titanic Survival Prediction Notebook!
+
+In this Jupyter notebook, we'll explore the famous Titanic dataset from the Kaggle competition "Titanic: Machine Learning from Disaster." The goal of this project is to predict whether a passenger survived the sinking of the Titanic based on various features such as age, gender, ticket class, and more.
+
+The sinking of the RMS Titanic on April 15, 1912, remains one of the deadliest maritime disasters in history. Despite its tragic outcome, the Titanic dataset provides a unique opportunity to apply machine learning techniques to understand patterns of survival and uncover insights into the factors that influenced passengers' chances of survival.
+
+Throughout this notebook, we'll follow a step-by-step process to analyze the dataset, preprocess the data, build predictive models, and evaluate their performance. By the end of this notebook, we aim to develop a predictive model that accurately predicts whether a passenger survived the Titanic disaster.
+
 ## 1. Problem Definition
  Is it possible to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
