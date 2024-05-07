@@ -7,7 +7,7 @@ Data taken from the Kaggle Titanic competition. The data has been broken into a 
 * https://www.kaggle.com/competitions/titanic/data
 
 ## 3. Evaluation
-My goal for this project is build a model with at least 70% accuracy.
+My goal for this project is build a model with at least 90% accuracy.
 
 
 ## 4. Features 
